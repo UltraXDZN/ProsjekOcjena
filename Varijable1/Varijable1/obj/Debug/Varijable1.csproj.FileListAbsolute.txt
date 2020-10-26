@@ -1,0 +1,7 @@
+C:\Juraj Crljenko\varijable1\Varijable1\Varijable1\bin\Debug\Varijable1.exe.config
+C:\Juraj Crljenko\varijable1\Varijable1\Varijable1\bin\Debug\Varijable1.exe
+C:\Juraj Crljenko\varijable1\Varijable1\Varijable1\bin\Debug\Varijable1.pdb
+C:\Juraj Crljenko\varijable1\Varijable1\Varijable1\obj\Debug\Varijable1.csprojAssemblyReference.cache
+C:\Juraj Crljenko\varijable1\Varijable1\Varijable1\obj\Debug\Varijable1.csproj.CoreCompileInputs.cache
+C:\Juraj Crljenko\varijable1\Varijable1\Varijable1\obj\Debug\Varijable1.exe
+C:\Juraj Crljenko\varijable1\Varijable1\Varijable1\obj\Debug\Varijable1.pdb
